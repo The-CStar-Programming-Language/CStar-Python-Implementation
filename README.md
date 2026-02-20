@@ -1,4 +1,9 @@
-# As of now, Rhuse has yet to be implemented. I am making it as of 2-20-26. By the end of today, it should be implemented.
+# As of now, Rhuse has been implemented! It has a few basic features so far, but more will come.
+
+# Version History
+
+* v0.1 (Current) - Basic I/O, variables, and math.
+
 
 ## Roadmap
 * 2-20-26: Implement basic I/O and math features (Completed by Adam)
