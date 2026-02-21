@@ -4,13 +4,14 @@
 
 * v0.1 - Basic I/O, variables, and math. - 1.3KB
 * v0.2 - Fixed main.py - 1.4KB
-* v0.3 (Current) - Added a standard library - 2.7KB
+* v0.3 - Added a standard library - 2.7KB
+* v0.4 (Current) - Revised main.py to run script or display usage depending on argv[1]
 
 
 ## Roadmap
-* 2-20-26: Implement basic I/O and math features (Completed by Adam)
-* 2-21-26 to 3-1-26: Implement import system (Adam will work on it; Trevor, you are free to help if you want.)
-* 3-2-26 to 4-1-26: Finish the book implementing Rhuse (Adam's personal project, no involvement needed from others but is welcome to advice)
+* 2-20-26: Implement basic I/O and math features (Completed by Adam on 2-20-26)
+* 2-21-26 to 3-1-26: Implement import system (Completed by Adam on 2-20-26)
+* 2-22-26 to 3-1-26: Make a seperate Rhuse REPL
 
 
 # Roadmap Review
