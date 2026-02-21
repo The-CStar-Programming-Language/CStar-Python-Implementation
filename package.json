@@ -1,0 +1,15 @@
+{
+  "name": "Rhuse-Python-Implementation",
+  "version": "0.0.4",
+  "description": "A brief description of my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "project"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
